@@ -16,6 +16,4 @@ I'm not working on any project rn
 
 ## 📊 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=champst2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&custom_title=Github%20Stats:)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=champst2004&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=champst2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&custom_title=Github%20Stats:) &nbsp; ![GitHub Streak](https://streak-stats.demolab.com?user=champst2004&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5)
